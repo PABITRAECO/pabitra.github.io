@@ -5,7 +5,7 @@ Prior starting my PhD, I have worked as a RA at the [International Food Policy R
 
 Email: [chowdhury.pa@northeastern.edu](chowdhury.pa@northeastern.edu)
 
-## Work in Progress
+## Work in progress
 - The Legacy of Public Schooling: How Parents’ Early Exposure Shapes Private School Decisions - Evidence from India (with Nitin Kumar Bharti & Pradeep Kumar Choudhury). _(Presented in ACEGD 2023, Indian Statistical Institute, Delhi)_
 
 ## Media articles
