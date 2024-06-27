@@ -7,7 +7,7 @@ Email: [chowdhury.pa@northeastern.edu](chowdhury.pa@northeastern.edu)
 
 
 ## Work in progress
-- The legacy of public schooling: how parents’ early exposure shapes private school decisions - evidence from India (with Nitin Kumar Bharti & Pradeep Kumar Choudhury). _(Presented at ACEGD 2023, Indian Statistical Institute, Delhi)_
+- The legacy of public schooling: how parents’ early exposure shapes private school decisions - evidence from India (with Nitin Kumar Bharti & Pradeep Kumar Choudhury). _([Presented at the 18th ACEGD, Indian Statistical Institute, Delhi, December 2023](https://www.isid.ac.in/~acegd/acegd2023/index.html))_
 
 ## Media articles 
 - [Shrinking public sector employment and its costs](https://www.hindustantimes.com/india-news/shrinking-public-sector-employment-and-its-costs-101661966849523.html) (with Rosa Abraham), Hindustan Times, September 2022.
