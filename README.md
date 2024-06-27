@@ -7,6 +7,6 @@ Prior starting my PhD, I have worked as a RA at the [International Food Policy R
 ## Work in progress
 - The legacy of public schooling: how parents’ early exposure shapes private school decisions - evidence from India (with Nitin Kumar Bharti & Pradeep Kumar Choudhury). _(Presented at ACEGD 2023, Indian Statistical Institute, Delhi)_
 
-## Media articles
+## Media articles 
 - [Shrinking public sector employment and its costs](https://www.hindustantimes.com/india-news/shrinking-public-sector-employment-and-its-costs-101661966849523.html) (with Rosa Abraham), Hindustan Times, September 2022.
 
