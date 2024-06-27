@@ -6,8 +6,8 @@ Prior starting my PhD, I have worked as a RA at the [International Food Policy R
 Email: [chowdhury.pa@northeastern.edu](chowdhury.pa@northeastern.edu)
 
 ## Work in progress
-- The Legacy of Public Schooling: How Parents’ Early Exposure Shapes Private School Decisions - Evidence from India (with Nitin Kumar Bharti & Pradeep Kumar Choudhury). _(Presented at ACEGD 2023, Indian Statistical Institute, Delhi)_
+- The legacy of public schooling: how parents’ early exposure shapes private school decisions - evidence from India (with Nitin Kumar Bharti & Pradeep Kumar Choudhury). _(Presented at ACEGD 2023, Indian Statistical Institute, Delhi)_
 
 ## Media articles
-- [Shrinking Public Sector Employment and its Costs](https://www.hindustantimes.com/india-news/shrinking-public-sector-employment-and-its-costs-101661966849523.html) (with Rosa Abraham), Hindustan Times, September 2022.
+- [Shrinking public sector employment and its costs](https://www.hindustantimes.com/india-news/shrinking-public-sector-employment-and-its-costs-101661966849523.html) (with Rosa Abraham), Hindustan Times, September 2022.
 
