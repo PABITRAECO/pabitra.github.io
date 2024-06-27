@@ -1,4 +1,6 @@
 title: Pabitra Chowdhury
 show_downloads : false
 logo : /assets/my_pic.jpg
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://username.github.io" # the base hostname & protocol for your site 
 theme : jekyll-theme-minimal
