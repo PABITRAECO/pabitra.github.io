@@ -1,4 +1,4 @@
-I am a PhD student in the Department of Economics at [Northeastern University, USA](https://cssh.northeastern.edu/economics/). I am interested in topics of health economics, economics of identity (caste, LGBTQI+) and enviornmental economics. 
+I am a PhD student in the Department of Economics at <a href="(https://cssh.northeastern.edu/economics/)" target="_blank">Northeastern University, USA </a>. I am interested in topics of health economics, economics of identity (caste, LGBTQI+) and enviornmental economics. 
 
 Prior starting my PhD, I have worked as a RA at the [International Food Policy Research Institute (IFPRI)](https://www.ifpri.org/) in New Delhi and the [Centre for Sustainable Employment](https://azimpremjiuniversity.edu.in/cse) at Azim Premji University in Bangalore, India. I also worked as a researcher with i-HEAR [Sangath](https://sangath.in/) Bhopal Hub, examining social, institutional, and economic barriers to vaccination and health equity issues among trans*, intersex, and disability communities in India. I hold a master's degree in economics from [Jadavpur University, India](https://jadavpuruniversity.in/).
 
